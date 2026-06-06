@@ -8,7 +8,7 @@ Documenting my journey of learning Data Analysis — one day at a time.
 
 | Day | Topic | Status |
 |-----|-------|--------|
-| 1 | Fundamentals of Data Analysis | ✅ |
+| 1 | Fundamentals of Data Analysis | ✅ | | 2 | Data Analysis Tools & Processes |  |
 
 ---
 
@@ -68,3 +68,45 @@ Processed and organized data presented in a meaningful context.
 ---
 
 *#DataAnalysis #DataScience #LearningInPublic #ALX #Day1*
+---
+
+## 📘 Day 2 — Data Analysis Tools & Processes
+
+### 🔹 The Three Major Data Analysis Tools
+| Tool | Purpose |
+|------|---------|
+| **Microsoft Excel** | Data manipulation & basic analysis |
+| **SQL** | Querying & managing databases |
+| **Power BI** | Data visualization & reporting |
+
+### 🔹 The Data Process
+1. Data Gathering
+2. Data Structuring
+3. Data Storage
+4. Data Analysis
+5. Statistics
+6. Data-Driven Decision Making
+
+### 🔹 Data Storage Methods
+| Type | Description |
+|------|-------------|
+| **On-Premises** | Stored locally on company servers |
+| **Cloud Storage** | Stored remotely via internet-based services |
+
+Each has its own advantages and disadvantages depending on the organization's needs.
+
+### 🔹 Data Structures
+- **Structured Data** — Organized in rows & columns (e.g. spreadsheets)
+- **Semi-Structured Data** — Partially organized (e.g. JSON, XML)
+- **Unstructured Data** — No fixed format (e.g. images, emails, videos)
+
+### 🔹 The Data Analysis Lifecycle
+1. Ingestion
+2. Transformation
+3. Modeling
+4. Visualization
+5. Analysis
+6. Presentation
+
+### 💡 Key Takeaway
+> *"Today I learned the three major tools used in data analysis — Microsoft Excel, SQL, and Power BI — and how data flows through organizations from gathering all the way to data-driven decision making."*
